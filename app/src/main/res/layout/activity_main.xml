@@ -1,0 +1,35 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Кнопка чтения -->
+        <Button
+            android:id="@+id/btnRead"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/read_book"/>
+
+        <!-- Кнопка сохраненных книг -->
+
+        <!-- Заголовок последней книги -->
+
+        <Button
+            android:id="@+id/btnSavedBooks"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:text="@string/saved_books" />
+
+        <TextView
+            android:id="@+id/tvLastBookTitle"
+            android:layout_width="377dp"
+            android:layout_height="84dp"
+            android:layout_marginTop="24dp"
+            android:textSize="18sp" />
+    </LinearLayout>
+</layout>

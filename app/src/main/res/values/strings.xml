@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Skrabooking</string>
+    <string name="book_cover_desc">Обложка книги</string>
+    <string name="page_content_template">Страница %d</string>
+    <string name="next_page">Вперед</string>
+    <string name="previous_page">Назад</string>
+    <string name="page_counter">%1$d/%2$d</string>
+    <string name="bookmark">Закладка</string>
+    <string name="read_book">Читать</string>
+    <string name="saved_books">Мои книги</string>
+    <string name="page_number">Страница %d</string>
+
+    <string name="search">Поиск</string>
+
+    <string name="login_title">Получите новый опыт от классических произведений</string>
+    <string name="login_sign_up">Зарегестрироваться</string>
+    <string name="login_sign_in">Войти</string>
+
+    <string name="main_catalog_tab">Главная</string>
+    <string name="main_search_tab">Поиск</string>
+    <string name="main_my_books_tab">Мои книги</string>
+    <string name="main_profile_tab">Войти</string>
+
+    <string name="catalog_category_popular">🔥 Популярное</string>
+    <string name="catalog_category_romatic">❤️ Романтика</string>
+    <string name="catalog_category_for_children">👶 Для детей</string>
+    <string name="catalog_category_horror">👻 Хорор</string>
+
+    <string name="search_title">Категории</string>
+    <string name="search_non_fiction">Non-fiction</string>
+    <string name="search_classics">Classics</string>
+    <string name="search_fantasy">Fantasy</string>
+    <string name="search_young_adult">Young Adult</string>
+    <string name="search_crime">Crime</string>
+    <string name="search_horror">Horror</string>
+    <string name="search_sci_fi">Sci-fi</string>
+    <string name="search_drama">Drama</string>
+</resources>
